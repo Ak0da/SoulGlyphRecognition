@@ -1,5 +1,6 @@
 # Project specific ignores
 Test_Pictures/
+Examples/
 *.pth
 *.pt
 
